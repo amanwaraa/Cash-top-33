@@ -1,0 +1,10 @@
+{
+  "name": "cash-top-embedded-mongodb-api",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
